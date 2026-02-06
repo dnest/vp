@@ -174,7 +174,7 @@ function App() {
       <div className="w-full max-w-md">
         <header className="py-8 px-2 flex justify-between items-start">
           <div>
-            <h1 className="text-2xl font-black text-slate-900 tracking-tight">주차 비서 <span className="text-blue-600 italic">Pro</span></h1>
+            <h1 className="text-2xl font-black text-slate-900 tracking-tight">주차 소통 <span className="text-blue-600 italic">Pro</span></h1>
             <p className="text-slate-400 text-sm font-medium italic">Smart Parking Assistant</p>
           </div>
           {isRegistered && (
